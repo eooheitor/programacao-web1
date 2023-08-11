@@ -1,0 +1,32 @@
+.bg-black{
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.coluna {
+  float: left;
+  box-sizing: border-box;
+  padding: 2px;
+  border: 2px;
+}
+.produto-50 {
+  width: 50%;
+}
+.categoria-25 {
+  width: 25%;
+}
+
+.preco-25{
+  width: 25%;
+}
+
+.title{
+  background-color: rgb(112, 110, 110);
+  padding: 5px;
+}
+
+.sub-title{
+  background-color: rgb(228, 220, 220);
+  padding: 5px;
+}
